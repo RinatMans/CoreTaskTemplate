@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="TaskJDBC" />
         <module name="CoreTaskTemplate" />
+        <module name="Hibernate" />
       </profile>
     </annotationProcessing>
   </component>
